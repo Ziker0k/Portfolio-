@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/firs_package/ImPhSh.py
+src/firs_package/__init__.py
+src/pathology.egg-info/PKG-INFO
+src/pathology.egg-info/SOURCES.txt
+src/pathology.egg-info/dependency_links.txt
+src/pathology.egg-info/not-zip-safe
+src/pathology.egg-info/top_level.txt
