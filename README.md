@@ -4,4 +4,4 @@
     Построение графиков из файлов,  
     Анализ данных и интерполяция различными методами и др.  
 ### 3 - Моделирование полей волновода, рассчитанных на заданные размеры.  
-![](https://github.com/pythonProjects/WavesInWaveguide/11.gif)
+![](https://github.com/Ziker0k/pythonProjects/blob/main/WavesInWaveguide/11.gif)
