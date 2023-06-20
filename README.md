@@ -8,3 +8,6 @@
 ![](https://github.com/Ziker0k/pythonProjects/blob/main/WavesInWaveguide/11.gif)  
 Вектора  
 ![](https://github.com/Ziker0k/pythonProjects/blob/main/WavesInWaveguide/2.gif)  
+
+### 4 - Упрощенный вариант, моделирование силовых линий волновода.
+![](https://github.com/Ziker0k/pythonProjects/blob/main/WavesInWaveguideEASY/1.png)  
